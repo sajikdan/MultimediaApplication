@@ -1,5 +1,5 @@
-# FinalProject
+# Final Project
 
-## Suggestion
-1. Provide several functions for a function required.
-2. Use CamelCase.
+## Genreal
+1. CamelCase is used.
+2. Console is used currently for interacttion.
