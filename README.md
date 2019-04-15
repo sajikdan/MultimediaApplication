@@ -1,4 +1,4 @@
-# Final Project
+# Multimedia Application
 
 ## Genreal
 1. CamelCase is used.
